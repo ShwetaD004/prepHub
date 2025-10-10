@@ -1,0 +1,7 @@
+{
+  "name": " Interview AI Prep",
+  "description": "An AI-powered platform for comprehensive interview preparation. Practice aptitude tests, simulate technical and HR interviews, participate in AI-driven group discussions, and get your LinkedIn profile reviewed by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
